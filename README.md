@@ -1,5 +1,5 @@
 # Discord Activity Forcus
-Run discord activity on the voice channel you want to start activity on the server that has bot or not
+Focus running activity on the voice channel you like to
 
 ## Usage
 - copy the code on index.js
