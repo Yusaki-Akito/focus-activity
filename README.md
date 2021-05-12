@@ -1,4 +1,4 @@
-# Discord Activity Forcus
+# Discord Focus Activity
 Focus running activity on the voice channel you like to
 
 ## Usage
@@ -10,9 +10,7 @@ Focus running activity on the voice channel you like to
 - change the channel id on the url
 - hit enter
 
-## License
-MIT License
-
+## MIT License
 Copyright (c) 2021 Yusaki
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
