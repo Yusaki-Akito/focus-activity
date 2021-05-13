@@ -7,7 +7,7 @@ Focus running activity on the voice channel you like to
 - open inspector
 - head down to console
 - paste it to the console
-- change the channel id on the url
+- replace with you voice channel id and you token
 - hit enter
 
 ## MIT License
